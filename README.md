@@ -2,6 +2,12 @@
 # 마음의 날씨 - 감정 기록 플랫폼
 ### 3팀 불타는 감자 - 김동현, 남궁민, 이민주, 임하늘
 
+### Front-end
+https://github.com/24-precapstone-team3/weather-diary-fe
+
+### Back-end
+https://github.com/24-precapstone-team3/weather-diary-backend
+
 ### project_plan.pdf
 - 프로젝트 계획서 최종 파일
 - 프로젝트 개요, 기능 구조도, 시스템 구조도, 일정 계획, 역할 분담 포함
